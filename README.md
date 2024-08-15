@@ -1,4 +1,4 @@
-## Este projeto tem como objetivo identificar os principais fatores que influenciam a colocação de candidatos a empregos, utilizando análises de dados e técnicas de machine learning para poder classificar novos candidatos que viram
+## Este projeto tem como objetivo identificar os principais fatores que influenciam a colocação de candidatos a empregos, utilizando análises de dados e técnicas de machine learning para poder classificar novos candidatos.
 
 ## Sumário
 * Descrição do Projeto
@@ -12,7 +12,7 @@
 * Contribuição
 
 ## Descrição do Projeto
-O projeto analisa um conjunto de dados de candidatos a empregos, focando em variáveis acadêmicas e de experiência de trabalho para determinar quais fatores mais impactam a empregabilidade. Uma nova variável, academic_score, foi criada para melhor representar o desempenho acadêmico dos candidatos. Um modelo SVM foi utilizado para prever a colocação dos candidatos.
+O projeto analisa um conjunto de dados de candidatos a empregos, com foco em variáveis acadêmicas e de experiência de trabalho, para determinar quais fatores impactam mais a empregabilidade. O arquivo contendo o relatório a ser analisado é relatorio.ipynb. Um modelo SVM foi utilizado para prever a colocação dos candidatos.
 
 ## Pré-requisitos
 * Python 3.x
@@ -35,5 +35,5 @@ Testar outros modelos de machine learning para comparar desempenho.
 Aperfeiçoar o processo de análise para reduzir os falsos positivos/negativos.
 
 ## Contribuição
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request.## Este projeto tem como objetivo identificar os principais fatores que influenciam a colocação de candidatos a empregos, utilizando análises de dados e técnicas de machine learning para poder classificar novos candidatos que viram.
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.
 
