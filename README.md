@@ -35,5 +35,5 @@ Testar outros modelos de machine learning para comparar desempenho.
 Aperfeiçoar o processo de análise para reduzir os falsos positivos/negativos.
 
 ## Contribuição
-Contribuições são bem-vindas! Abra uma issue ou envie um pull request.## Este projeto tem como objetivo identificar os principais fatores que influenciam a colocação de candidatos a empregos, utilizando análises de dados e técnicas de machine learning para poder classificar novos candidatos que viram
+Contribuições são bem-vindas! Abra uma issue ou envie um pull request.## Este projeto tem como objetivo identificar os principais fatores que influenciam a colocação de candidatos a empregos, utilizando análises de dados e técnicas de machine learning para poder classificar novos candidatos que viram.
 
